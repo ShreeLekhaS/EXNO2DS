@@ -1,4 +1,4 @@
-# EXNO2DS
+# EX.NO-2DS
 # AIM:
       To perform Exploratory Data Analysis on the given data set.
       
